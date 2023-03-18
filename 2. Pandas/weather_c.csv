@@ -1,0 +1,13 @@
+day,city,temp,windspeed,event
+1/1/2022,city_1,23,6,Snow
+1/2/2022,city_1,26,7,Sunny
+1/3/2022,city_1,29,2,Rain
+1/4/2022,city_1,37,2,Rain
+1/1/2022,city_2,22,2,Snow
+1/2/2022,city_2,24,4,Sunny
+1/3/2022,city_2,27,5,Sunny
+1/4/2022,city_2,29,6,Sunny
+1/1/2022,city_3,24,3,Snow
+1/2/2022,city_3,22,4,Snow
+1/3/2022,city_3,21,2,Snow
+1/4/2022,city_3,27,6,Rain
